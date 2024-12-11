@@ -1,0 +1,12 @@
+{
+  "@@locale": "ru",
+  "appTitle": "Просмотр фильмов",
+  "searchHint": "Искать фильмы...",
+  "noMoviesFound": "Фильмы не найдены",
+  "loading": "Загрузка...",
+  "language": "Язык",
+  "year": "Год",
+  "genres": "Жанры",
+  "rating": "Оценка",
+  "description": "Описание"
+}

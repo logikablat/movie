@@ -1,0 +1,12 @@
+{
+  "@@locale": "en",
+  "appTitle": "Movie Browser",
+  "searchHint": "Search movies...",
+  "noMoviesFound": "No movies found",
+  "loading": "Loading...",
+  "language": "Language",
+  "year": "Year",
+  "genres": "Genres",
+  "rating": "Rating",
+  "description": "Description"
+}
